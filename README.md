@@ -4,4 +4,5 @@ One user will be standing at the starting position of the race and the other at 
 quite far from starting position).
 
 When the race gets started the user standing at the starting position will start the clock from his app.
+ <img src="https://github.com/" width="140" height ="220">
 
